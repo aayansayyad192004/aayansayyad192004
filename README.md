@@ -20,4 +20,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayansayyad192004&show_icons=true&locale=en&layout=compact" alt="aayansayyad192004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayansayyad192004&" alt="aayansayyad192004" /></p>

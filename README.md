@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayan Sayyad</h1>
-<h3 align="center">A passionate Full Stack Web developer  from India</h3>
+<h3 align="center">A passionate Software developer  from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif"/>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aayansayyadportfolio-aayan-sayyads-projects.vercel.app/)
